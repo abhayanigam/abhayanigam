@@ -20,7 +20,8 @@ from life import Creativity
 class Life(Creativity):
     def __init_life__(self):
         self.Artist = "illustrator ,Sketch Artist"
-        self.Multi_Media = " Photo & Video Grapher"
+        self.Multi_Media = " Photo & Video Editor"
+        self.entertainment = "Guitarist"
         self.open_for_opportunity = True
 
     def current_projects(self):
