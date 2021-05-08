@@ -85,16 +85,16 @@ This may be things that are overlooked by someone who is deep into the libraries
 <img src="https://img.shields.io/badge/-linux-772953?style=for-the-badge&amp;logo=linux" alt="Linux">
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows"></p>
 
-<br>
-<!-- HTML -->
-<h4><b><i>Random dev joke for you!</i></b></h4>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayanigam)](https://github.com/abhayanigam/github-readme-stats)
 [![Abhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayanigam)](https://github.com/abhayanigam/github-readme-stats)
+
+<!-- HTML -->
+<h4><b><i>Random dev joke for you!</i></b></h4>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
 
-[<img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/artistic_guruji/)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/abhayanigam)  [<img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/abhaya_nigam) 
+[<img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/abhayanigam)  [<img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/abhaya_nigam) 
