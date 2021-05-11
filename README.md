@@ -45,7 +45,7 @@ if '__repo__' == '__helpful__':
 <br>
 <p>
 <img width="250" align='left' src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/hacktoberfest_2020.png">
-<h2><b>Hacktoberfest 2020</b></h2>
+<h2><b>Recent Badge 2020</b></h2>
 </p>
 <p>
 <h4><i>I love open source.I am not a heavy maintainer of any large libraries, 
