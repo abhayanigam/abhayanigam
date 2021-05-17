@@ -100,10 +100,10 @@ This may be things that are overlooked by someone who is deep into the libraries
 
 <hr/>
 <!-- HTML -->
-<h4><b><i>Random dev joke for you!</i></b></h4>
+<h3><b><i>Random dev joke for you!</i></b></h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 
-<img src="https://github.com/codePerfectPlus/codeperfectplus/blob/master/assets/img/programmer.gif" align="right" width="280" align="right" />
+<img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/programmer.gif" align="right" width="280" align="right" />
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
