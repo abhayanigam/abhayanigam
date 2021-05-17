@@ -85,9 +85,10 @@ This may be things that are overlooked by someone who is deep into the libraries
 <img src="https://img.shields.io/badge/-linux-772953?style=for-the-badge&amp;logo=linux" alt="Linux">
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows"></p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayanigam)](https://github.com/abhayanigam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayanigam&layout=compact)](https://github.com/abhayanigam)
 [![Abhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayanigam)](https://github.com/abhayanigam/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhayanigam&repo=abhayanigam/Learn_C)](https://github.com/abhayanigam/Learn_C)
 
 <!-- HTML -->
 <h4><b><i>Random dev joke for you!</i></b></h4>
