@@ -88,7 +88,13 @@ This may be things that are overlooked by someone who is deep into the libraries
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayanigam&layout=compact)](https://github.com/abhayanigam)
 [![Abhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayanigam)](https://github.com/abhayanigam/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhayanigam&repo=abhayanigam/Learn_C)](https://github.com/abhayanigam/Learn_C)
+<a href="https://github.com/abhayanigam/Learn_C">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhayanigam&repo=Learn_C" />
+</a>
+<a href="https://github.com/abhayanigam/Learn_Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhayanigam&repo=Learn_Python" />
+</a>
+
 
 <!-- HTML -->
 <h4><b><i>Random dev joke for you!</i></b></h4>
