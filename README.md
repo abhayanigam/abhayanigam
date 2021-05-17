@@ -88,7 +88,8 @@ This may be things that are overlooked by someone who is deep into the libraries
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayanigam&langs_count=8)](https://github.com/abhayanigam)
-[![Abhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayanigam)](https://github.com/abhayanigam/abhayanigam)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhayanigam&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats" align="right">
 
 <h3><b><i>Check These Repos If You Like</i></b></h3>
 <a href="https://github.com/abhayanigam/Learn_C">
@@ -103,7 +104,7 @@ This may be things that are overlooked by someone who is deep into the libraries
 <h3><b><i>Random dev joke for you!</i></b></h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 
-<img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/programmer.gif" align="right" width="280" align="right" />
+<img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/programmer.gif" align="right" width="280" />
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
