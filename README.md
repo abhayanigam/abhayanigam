@@ -88,7 +88,7 @@ This may be things that are overlooked by someone who is deep into the libraries
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayanigam&langs_count=8)](https://github.com/abhayanigam)
-[![Abhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayanigam)](https://github.com/abhayanigam/github-readme-stats)
+[![Abhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayanigam)](https://github.com/abhayanigam/abhayanigam)
 
 <h3><b><i>Check These Repos If You Like</i></b></h3>
 <a href="https://github.com/abhayanigam/Learn_C">
