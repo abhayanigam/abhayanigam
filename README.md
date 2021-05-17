@@ -44,7 +44,7 @@ if '__repo__' == '__helpful__':
 <hr>
 <br>
 <p>
-<img width="250" align='left' src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/hacktoberfest_2020.png">
+<img width="250" align='left' src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/2020-badge.png">
 <h2><b>Recent Badge 2020</b></h2>
 </p>
 <p>
@@ -68,6 +68,7 @@ This may be things that are overlooked by someone who is deep into the libraries
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 <p><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+ <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&amp;style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="Numpy">
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&amp;style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
 <img src="https://img.shields.io/badge/TensorFlow%20-%23430098.svg?&amp;style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt="Tensorflow">
@@ -84,14 +85,25 @@ This may be things that are overlooked by someone who is deep into the libraries
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github">
 <img src="https://img.shields.io/badge/-linux-772953?style=for-the-badge&amp;logo=linux" alt="Linux">
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows"></p>
+<hr/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayanigam)](https://github.com/abhayanigam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayanigam&langs_count=8)](https://github.com/abhayanigam)
 [![Abhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayanigam)](https://github.com/abhayanigam/github-readme-stats)
 
+<h3><b><i>Check These Repos If You Like</i></b></h3>
+<a href="https://github.com/abhayanigam/Learn_C">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhayanigam&repo=Learn_C" />
+</a>
+<a href="https://github.com/abhayanigam/Learn_Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhayanigam&repo=Learn_Python" />
+</a>
+
+<hr/>
 <!-- HTML -->
 <h4><b><i>Random dev joke for you!</i></b></h4>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+
+<img src="https://github.com/codePerfectPlus/codeperfectplus/blob/master/assets/img/programmer.gif" align="right" width="280" align="right" />
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
