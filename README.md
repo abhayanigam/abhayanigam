@@ -2,11 +2,15 @@
 <img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/banner.gif"/>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
+<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="260px" width="auto">
 
 <h2 align="left"><img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/wave1.gif" width="30px">Hello There, Fellow Developers!</h2>
 
 <h3 align="left">I seek to contribute to this world with my algorithms and abstractions.</h3>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhayanigam&row=2&column=3" alt="abhayanigam" height="260px"/></a>
+</p>
 
 <br>
   <details>
