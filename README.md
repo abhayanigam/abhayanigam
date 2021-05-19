@@ -85,11 +85,12 @@ This may be things that are overlooked by someone who is deep into the libraries
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github">
 <img src="https://img.shields.io/badge/-linux-772953?style=for-the-badge&amp;logo=linux" alt="Linux">
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows"></p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayanigam&langs_count=8)](https://github.com/abhayanigam)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhayanigam&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats" align="right">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhayanigam&show_icons=true&locale=en" alt="abhayanigam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayanigam&" alt="abhayanigam" /></p>
 
 <h3><b><i>Check These Repos If You Like</i></b></h3>
 <a href="https://github.com/abhayanigam/Learn_C">
