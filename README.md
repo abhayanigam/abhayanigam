@@ -2,7 +2,7 @@
 <img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/banner.gif"/>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="200px" width="auto">
+<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="180px" width="auto">
 
 <h2 align="left"><img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/wave1.gif" width="30px">Hello There, Fellow Developers!</h2>
 
