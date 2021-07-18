@@ -2,11 +2,15 @@
 <img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/banner.gif"/>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
+<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="180px" width="auto">
 
 <h2 align="left"><img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/wave1.gif" width="30px">Hello There, Fellow Developers!</h2>
 
-<h3 align="left">I seek to contribute to this world with my algorithms and abstractions.</h3>
+<h3 align="left"><i>I seek to contribute to this world with my algorithms and abstractions.</i></h3>
+
+<p align="left">
+  <a href="https://github.com/abhayanigam"><img src="https://github-profile-trophy.vercel.app/?username=abhayanigam&row=2&column=3" alt="abhayanigam" height="260px"/></a>
+</p>
 
 <br>
   <details>
@@ -85,10 +89,12 @@ This may be things that are overlooked by someone who is deep into the libraries
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github">
 <img src="https://img.shields.io/badge/-linux-772953?style=for-the-badge&amp;logo=linux" alt="Linux">
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows"></p>
+<p align="left"> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayanigam&langs_count=8)](https://github.com/abhayanigam)
-[![Abhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayanigam)](https://github.com/abhayanigam/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhayanigam&show_icons=true&locale=en" alt="abhayanigam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayanigam&" alt="abhayanigam" /></p>
 
 <h3><b><i>Check These Repos If You Like</i></b></h3>
 <a href="https://github.com/abhayanigam/Learn_C">
@@ -100,10 +106,10 @@ This may be things that are overlooked by someone who is deep into the libraries
 
 <hr/>
 <!-- HTML -->
-<h4><b><i>Random dev joke for you!</i></b></h4>
+<h3><b><i>Random dev joke for you!</i></b></h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 
-<img src="https://github.com/codePerfectPlus/codeperfectplus/blob/master/assets/img/programmer.gif" align="right" width="280" align="right" />
+<img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/programmer.gif" align="right" width="280" />
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
