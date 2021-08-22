@@ -8,9 +8,9 @@
 
 <h3 align="left"><i>I seek to contribute to this world with my algorithms and abstractions.</i></h3>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/abhayanigam"><img src="https://github-profile-trophy.vercel.app/?username=abhayanigam&row=2&column=3" alt="abhayanigam" height="260px"/></a>
-</p>
+</p> -->
 
 <br>
   <details>
