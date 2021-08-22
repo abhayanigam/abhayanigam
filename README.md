@@ -56,7 +56,7 @@ if '__repo__' == '__helpful__':
 I contribute to things as I come across issues that I think other people might struggle with.
 This may be things that are overlooked by someone who is deep into the libraries or codes.</i></h4>
 </p>
-<img align="center" src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/Language_Badges-removebg-preview.png" height="150px" width="auto">
+<img align="center" src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/Language_Badges-removebg-preview.png" height="120px" width="auto">
 
 ## 👩‍💻 Languages And Tools :
 
