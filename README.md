@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 <img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/banner.gif"/>
 </div>
 
