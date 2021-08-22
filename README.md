@@ -49,7 +49,7 @@ if '__repo__' == '__helpful__':
 <br>
 <p>
 <a href="https://www.hackerrank.com/abhaya_nigam" target="_blank"> <img width="250" align='left' src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/2020-badge.png"></a>
-<h2><b>Recent Badge 2020</b></h2>
+<h2><b>Recent Badges</b></h2>
 </p>
 <p>
 <h4><i>I love open source.I am not a heavy maintainer of any large libraries, 
