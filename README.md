@@ -2,12 +2,18 @@
 <img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/banner.gif"/>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="180px" width="auto">
+<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="150px" width="auto">
 
 <h2 align="left"><img src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/wave1.gif" width="30px">Hello There, Fellow Developers!</h2>
 
 <h3 align="left"><i>I seek to contribute to this world with my algorithms and abstractions.</i></h3>
-
+<h3 align="left"><i>Please, Check Out My All New Free Music App Now <img alt="GIF" src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/headbang.gif" height = "30px "width="auto" /> </i></h3>
+<h6></h6>Note : Just click the button and you are good to go...</h6>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png"
+     alt="Download from GitHub"
+     height="90" src = "https://github.com/abhayanigam/flutter_projects_and_practice/releases/download/V1.0.0/app-release.apk"/>
+</div>
 <!-- <p align="left">
   <a href="https://github.com/abhayanigam"><img src="https://github-profile-trophy.vercel.app/?username=abhayanigam&row=2&column=3" alt="abhayanigam" height="260px"/></a>
 </p> -->
@@ -47,7 +53,6 @@ if '__repo__' == '__helpful__':
   </details>
 <hr>
 -->
-<br>
 <p>
 <a href="https://www.hackerrank.com/abhaya_nigam" target="_blank"> <img width="250" align='left' src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/2020-badge.png"></a>
 <h2><b>Recent Badges</b></h2>
@@ -148,8 +153,11 @@ This may be things that are overlooked by someone who is deep into the libraries
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayanigam&langs_count=8)](https://github.com/abhayanigam)
+
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhayanigam&show_icons=true&locale=en" alt="abhayanigam" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayanigam&" alt="abhayanigam" /></p>
+-->
 
 <h3><b><i>Check These Repos If You Like</i></b></h3>
 <a href="https://github.com/abhayanigam/Learn_C">
