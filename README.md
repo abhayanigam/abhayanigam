@@ -12,6 +12,7 @@
   <a href="https://github.com/abhayanigam"><img src="https://github-profile-trophy.vercel.app/?username=abhayanigam&row=2&column=3" alt="abhayanigam" height="260px"/></a>
 </p> -->
 
+<!--
 <br>
   <details>
     <summary>
@@ -44,8 +45,8 @@ if '__repo__' == '__helpful__':
 <img alt="GIF" src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/headbang.gif" width="20vw" /> I’m Investing my time in different programming language and new things.
 <br>
   </details>
-  
 <hr>
+-->
 <br>
 <p>
 <a href="https://www.hackerrank.com/abhaya_nigam" target="_blank"> <img width="250" align='left' src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/2020-badge.png"></a>
