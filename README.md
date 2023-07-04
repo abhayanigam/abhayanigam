@@ -10,9 +10,11 @@
 <h3 align="left"><i>Please, Check Out My All New Free Music App Now <img alt="GIF" src="https://github.com/abhayanigam/abhayanigam/blob/main/Assets/headbang.gif" height = "30px "width="auto" /> </i></h3>
 <h6></h6>Note : Just click the button and you are good to go...</h6>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png"
+     <a href="https://github.com/abhayanigam/flutter_projects_and_practice/releases/download/V1.0.0/app-release.apk">
+       <img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png"
      alt="Download from GitHub"
-     height="90" src = "https://github.com/abhayanigam/flutter_projects_and_practice/releases/download/V1.0.0/app-release.apk"/>
+     height="90"/>
+     </a>
 </div>
 <!-- <p align="left">
   <a href="https://github.com/abhayanigam"><img src="https://github-profile-trophy.vercel.app/?username=abhayanigam&row=2&column=3" alt="abhayanigam" height="260px"/></a>
